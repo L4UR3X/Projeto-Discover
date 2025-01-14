@@ -25,6 +25,9 @@ function toggleMode() {
     )
   } else {
     // se o light mode estiver OFF, adicionar alt normal
-    alt.setAttribute("alt")
+    alt.setAttribute(
+      "alt",
+      "Foto de Mayk Brito sorrindo, usando óculos e jaqueta preta com fundo degradê roxo/azul."
+    )
   }
 }
